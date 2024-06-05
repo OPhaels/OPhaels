@@ -1,16 +1,32 @@
-## Hi there 👋
+<img src="https://github.com/pedrohenrickzx/pedrohenrickzx/assets/168144134/af14ea2a-a64e-41ea-ad89-74acb4eb2d41" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**OPhaels/OPhaels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá! Eu sou Raphael Marçal
 
-Here are some ideas to get you started:
+Curioso estudante de análise e desenvolvimento de sistemas na <strong>UVV - Universidade vila velha</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+  
+##   <img align="center" alt="Rapha-Js" height="40" width="40" src="https://github.com/OPhaels/OPhaels/assets/104911531/ad15a635-53e7-4171-99d5-eb72fd327078"> Linguagens 
+  
+  <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rapha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rapha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rapha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rapha-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+  ## 🛠️Ferramentas 
+
+<div>
+  <img align="center" alt="ph-vcsode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="ph-vs" height="40" width="40" src="https://github.com/OPhaels/OPhaels/assets/104911531/bf85a882-90e8-4c5e-855b-4eed169d58d9">
+  <img align="center" alt="ph-sql" height="40" width="40" src="https://github.com/OPhaels/OPhaels/assets/104911531/97392280-ec6c-42c9-9444-6b98de772d1b">
+  <img align="center" alt="ph-sql" height="40" width="40" src="https://github.com/OPhaels/OPhaels/assets/104911531/a06be6ed-26ae-48aa-93bf-a88777165de8">
+<hr>
+  
+<div> 
+  <a href="https://www.instagram.com/user_raphael/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:raphael.rmarcal2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raphael-rodrigues-marçal-211327256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
