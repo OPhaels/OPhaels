@@ -6,7 +6,7 @@ Curioso estudante de análise e desenvolvimento de sistemas na <strong>UVV - Uni
 
 <div style="display: inline_block">
   
-##   <img align="center" alt="Rapha-Js" height="40" width="40" src="https://github.com/OPhaels/OPhaels/assets/104911531/ad15a635-53e7-4171-99d5-eb72fd327078"> Linguagens 
+##   <img align="center" alt="Rapha-Js" height="40" width="40" src="https://github.com/OPhaels/OPhaels/assets/104911531/49ae4f54-68fb-4654-a6d9-67c5ba0937fb"> Linguagens 
   
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rapha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,9 +20,9 @@ Curioso estudante de análise e desenvolvimento de sistemas na <strong>UVV - Uni
 
 <div>
   <img align="center" alt="ph-vcsode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="ph-vs" height="40" width="40" src="https://github.com/OPhaels/OPhaels/assets/104911531/bf85a882-90e8-4c5e-855b-4eed169d58d9">
-  <img align="center" alt="ph-sql" height="40" width="40" src="https://github.com/OPhaels/OPhaels/assets/104911531/97392280-ec6c-42c9-9444-6b98de772d1b">
-  <img align="center" alt="ph-sql" height="40" width="40" src="https://github.com/OPhaels/OPhaels/assets/104911531/a06be6ed-26ae-48aa-93bf-a88777165de8">
+  <img align="center" alt="ph-vs" height="40" width="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
+  <img align="center" alt="ph-sql" height="40" width="40" src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000">
+  <img align="center" alt="ph-sql" height="40" width="40" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000">
 <hr>
   
 <div> 
