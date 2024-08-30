@@ -1,4 +1,4 @@
-<img align="center" alt="Rapha-mysql" height="100" width="80" src="[https://tenor.com/view/programming-crazy-hard-developer-cramming-gif-7866345](https://tenor.com/pt-BR/view/programming-crazy-hard-developer-cramming-gif-7866345)">
+<img align="center" alt="gif" height="100" width="100" src="https://tenor.com/pt-BR/view/programming-crazy-hard-developer-cramming-gif-7866345">
 
 
 
