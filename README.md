@@ -1,7 +1,11 @@
-<img src="/assets/img/arquivo.gif">
+
+![cat-busy](https://github.com/user-attachments/assets/c922528b-fac2-4eda-b87f-dd992ee0f4bd)
+
+
 ## Olá! Eu sou Raphael Marçal
 
 Curioso estudante de análise e desenvolvimento de sistemas na <strong>UVV - Universidade vila velha</strong>
+
 
 <div style="display: inline_block">
   
