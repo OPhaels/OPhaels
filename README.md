@@ -1,5 +1,4 @@
-<div class="tenor-gif-embed" data-postid="7866345" data-share-method="host" data-aspect-ratio="1.36364" data-width="100%"><a href="https://tenor.com/view/programming-crazy-hard-developer-cramming-gif-7866345">
-
+<img src="/assets/img/arquivo.gif">
 ## Olá! Eu sou Raphael Marçal
 
 Curioso estudante de análise e desenvolvimento de sistemas na <strong>UVV - Universidade vila velha</strong>
