@@ -7,7 +7,7 @@ Curioso estudante de análise e desenvolvimento de sistemas na <strong>UVV - Uni
 <div style="display: inline_block">
   
 ##   <img align="center" alt="Rapha-Js" height="40" width="40" src="https://github.com/OPhaels/OPhaels/assets/104911531/49ae4f54-68fb-4654-a6d9-67c5ba0937fb"> Linguagens 
-  <img align="center" alt="Rapha-Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)">
+  <img align="center" alt="Rapha-Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rapha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
