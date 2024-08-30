@@ -1,4 +1,7 @@
-<img align="center" alt="Rapha-mysql" height="100" width="80" src="https://tenor.com/HayH.gif">
+<img align="center" alt="Rapha-mysql" height="100" width="80" src="https://tenor.com/view/programming-crazy-hard-developer-cramming-gif-7866345">
+
+
+
 ## Olá! Eu sou Raphael Marçal
 
 Curioso estudante de análise e desenvolvimento de sistemas na <strong>UVV - Universidade vila velha</strong>
