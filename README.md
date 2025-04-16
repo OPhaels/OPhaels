@@ -1,5 +1,5 @@
 
-<img align="right" alt="gif" border-radius="8px" height="350" width="450" src="https://github.com/user-attachments/assets/a535d2db-a86d-4a4b-b18b-c505cb9077d0" autoplay><br>
+<img align="right" alt="gif" height="350" width="450" src="https://github.com/user-attachments/assets/a535d2db-a86d-4a4b-b18b-c505cb9077d0" autoplay><br>
 ## Olá! Eu sou Raphael Marçal
 
 Curioso estudante de análise e desenvolvimento de sistemas na <strong>UVV - Universidade Vila Velha</strong>
