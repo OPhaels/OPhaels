@@ -13,7 +13,6 @@ Estudante de análise e desenvolvimento de sistemas <br> | <strong>UVV - Univers
   <img align="center" alt="Rapha-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rapha-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Rapha-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   
   
 
@@ -21,6 +20,7 @@ Estudante de análise e desenvolvimento de sistemas <br> | <strong>UVV - Univers
 
 <div>
   <img align="center" alt="ph-vcsode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="ph-vs" height="40" width="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
   <img align="center" alt="ph-sql" height="40" width="40" src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000">
   <img align="center" alt="ph-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="ph-sqls" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
