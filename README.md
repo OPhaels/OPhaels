@@ -2,7 +2,7 @@
 <img align="right" alt="gif" height="350" width="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lnMGp4ZW4zMmFxbnUwM3h3OWU3Y3R6eWlhcThlY3lwY2c5bGpjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" autoplay><br>
 ## Olá! Eu sou Raphael Marçal
 
-Estudante de análise e desenvolvimento de sistemas na <strong>UVV - Universidade Vila Velha</strong>
+Estudante de análise e desenvolvimento de sistemas\n <strong>UVV - Universidade Vila Velha</strong>
 
 
 <div style="display: inline_block">
