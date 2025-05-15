@@ -1,10 +1,10 @@
 
-<img align="right" alt="gif" height="350" width="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lnMGp4ZW4zMmFxbnUwM3h3OWU3Y3R6eWlhcThlY3lwY2c5bGpjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" autoplay><br>
+
 ## Olá! Eu sou Raphael Marçal
 
 Estudante de análise e desenvolvimento de sistemas <br> | <strong>UVV - Universidade Vila Velha</strong>
 
-
+<img align="right" alt="gif" height="350" width="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lnMGp4ZW4zMmFxbnUwM3h3OWU3Y3R6eWlhcThlY3lwY2c5bGpjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" autoplay><br>
 <div style="display: inline_block">
   
 ##   <img align="center" alt="Rapha-Js" height="35" width="40" src="https://github.com/OPhaels/OPhaels/assets/104911531/49ae4f54-68fb-4654-a6d9-67c5ba0937fb"> Linguagens 
