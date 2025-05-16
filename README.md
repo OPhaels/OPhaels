@@ -4,7 +4,7 @@
 
 Estudante de análise e desenvolvimento de sistemas <br> | <strong>UVV - Universidade Vila Velha</strong>
 
-<img align="right" alt="gif" height="350" width="450" src="https://i.postimg.cc/sgpNS1yZ/Ui9e.gif" autoplay><br>
+<img align="right" alt="gif" height="350" width="450" src="https://i.postimg.cc/Y0dW8QCK/giphy.gif" autoplay><br>
 <div style="display: inline_block">
   
 ##   <img align="center" alt="Rapha-Js" height="35" width="40" src="https://github.com/OPhaels/OPhaels/assets/104911531/49ae4f54-68fb-4654-a6d9-67c5ba0937fb"> Linguagens 
