@@ -4,7 +4,7 @@
 
 Estudante de análise e desenvolvimento de sistemas <br> | <strong>Universidade de Vila Velha</strong>
 
-<img align="center" alt="gif" height="350" width="450" src="https://i.postimg.cc/Y0dW8QCK/giphy.gif" autoplay><br>
+<img align="right" alt="gif" height="350" width="550" src="https://i.postimg.cc/Y0dW8QCK/giphy.gif" autoplay><br>
 <div style="display: inline_block">
   
   ## 📚 Linguagens 
