@@ -1,13 +1,13 @@
 
 
-## Olá! Eu sou Raphael Marçal
+## Olá, Eu sou Raphael Rodrigues Marçal!
 
-Estudante de análise e desenvolvimento de sistemas <br> | <strong>UVV - Universidade Vila Velha</strong>
+Estudante de análise e desenvolvimento de sistemas <br> | <strong>Universidade de Vila Velha</strong>
 
-<img align="right" alt="gif" height="350" width="450" src="https://i.postimg.cc/Y0dW8QCK/giphy.gif" autoplay><br>
+<img align="center" alt="gif" height="350" width="450" src="https://i.postimg.cc/Y0dW8QCK/giphy.gif" autoplay><br>
 <div style="display: inline_block">
   
-##   <img align="center" alt="Rapha-Js" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/6214/6214258.png"> Linguagens 
+  ## 📚 Linguagens 
 
   <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rapha-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
