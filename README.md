@@ -7,7 +7,7 @@ Estudante de análise e desenvolvimento de sistemas <br> | <strong>Universidade 
 <div style="display: inline_block">
 <hr>
  
-  **📚 Linguagens**
+ ### **📚 Linguagens**
  <div>
   <img align="center" alt="Rapha-Python" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rapha-Js" height="27" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +16,7 @@ Estudante de análise e desenvolvimento de sistemas <br> | <strong>Universidade 
   <img align="center" alt="ph-sqls" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <hr>
   
-  **🛠️ Ferramentas**
+###  **🛠️ Ferramentas**
 
 <div>
   <img align="center" alt="ph-vcsode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
