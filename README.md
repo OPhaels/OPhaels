@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=90&section=header" width="100%"/>
 
+<img  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Raphael+%F0%9F%91%8B;Systems+Analysis+%26+Dev;Backend+%7C+Python+%7C+Django"
+  style="margin-top:-20px;"
+/>
 </div>
-
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Raphael+%F0%9F%91%8B;Systems+Analysis+%26+Dev;Backend+%7C+Python+%7C+Django" alt="Typing SVG"/>
-  </h1>
 
   <p>
     <img src="https://img.shields.io/badge/Status-Estudando%20ADS-58A6FF?style=flat-square&labelColor=0d1117"/>
